@@ -13,7 +13,6 @@ To view the project locally, download or clone this repository and open "index.h
 - HTML5
 - CSS3
 - Flexbox
-- 
 ## Author
 KirillDevX
 
